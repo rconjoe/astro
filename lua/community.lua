@@ -8,7 +8,6 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.colorscheme.rose-pine" },
-  { import = "astrocommunity.note-taking.zk-nvim" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cs" },
   { import = "astrocommunity.pack.go" },
