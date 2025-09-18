@@ -45,6 +45,7 @@ return {
     ---@diagnostic disable: missing-fields
     config = {
       -- clangd = { capabilities = { offsetEncoding = "utf-8" } },
+      tailwindcss = { filetypes = { "javascriptreact", "typescriptreact" } },
     },
     -- customize how language servers are attached
     handlers = {
