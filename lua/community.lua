@@ -8,8 +8,6 @@ return {
   { import = "astrocommunity.colorscheme.rose-pine" },
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.pack.bash" },
-  { import = "astrocommunity.pack.cs" },
-  -- { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.python" },
@@ -17,6 +15,5 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.git.octo-nvim" },
-  -- { import = "astrocommunity.pack.svelte" },
   -- import/override with your plugins folder
 }
